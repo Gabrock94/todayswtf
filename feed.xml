@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds-podcast-1.0.dtd">
+<rss xmlns:ns0="http://www.itunes.com/dtds-podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Today's WTF</title>
     <link>https://Gabrock94.github.io/todayswtf/</link>
     <description>Critical analysis of technology, privacy, and the future.</description>
     <language>en-us</language>
-    <itunes:author>Giulio Gabrieli</itunes:author>
-    <itunes:image href="https://Gabrock94.github.io/todayswtf/cover_art.jpg" />
+    <ns0:author>Giulio Gabrieli</ns0:author>
+    <ns0:image href="https://Gabrock94.github.io/todayswtf/cover_art.jpg" />
     <image>
       <url>https://Gabrock94.github.io/todayswtf/cover_art.jpg</url>
       <title>Today's WTF</title>
@@ -17,5 +17,5 @@
       <pubDate>Wed, 03 Jun 2026 15:36:46 GMT</pubDate>
       <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-03.mp3" type="audio/mpeg" length="0" />
     </item>
-  </channel>
+  <item><title>Today's WTF - 2026-06-04</title><pubDate>Thu, 04 Jun 2026 16:29:33 GMT</pubDate><enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-04.mp3" type="audio/mpeg" length="0" /></item></channel>
 </rss>
