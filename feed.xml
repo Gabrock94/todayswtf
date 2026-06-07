@@ -17,7 +17,58 @@
       <pubDate>Wed, 03 Jun 2026 15:36:46 GMT</pubDate>
       <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-03.mp3" type="audio/mpeg" length="0" />
     </item>
-  <item><title>Today's WTF - 2026-06-03</title><pubDate>Thu, 03 Jun 2026 16:27:29 GMT</pubDate><enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-03.mp3" type="audio/mpeg" length="0" /></item>
-  <item><title>Today's WTF - 2026-06-04</title><pubDate>Thu, 04 Jun 2026 16:30:18 GMT</pubDate><enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-04.mp3" type="audio/mpeg" length="0" /></item>
-  <item><title>Today's WTF - 2026-06-05</title><pubDate>Fri, 05 Jun 2026 07:53:36 GMT</pubDate><enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-05.mp3" type="audio/mpeg" length="0" /></item><item><title>Today's WTF - 2026-06-06</title><pubDate>Sat, 06 Jun 2026 08:28:17 GMT</pubDate><enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-06.mp3" type="audio/mpeg" length="0" /></item></channel>
+    <item>
+      <title>Today's WTF - 2026-06-03</title>
+      <pubDate>Thu, 03 Jun 2026 16:27:29 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-03.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>Today's WTF - 2026-06-04</title>
+      <pubDate>Thu, 04 Jun 2026 16:30:18 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-04.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>Today's WTF - 2026-06-05</title>
+      <pubDate>Fri, 05 Jun 2026 07:53:36 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-05.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>Today's WTF - 2026-06-06</title>
+      <pubDate>Sat, 06 Jun 2026 08:28:17 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-06.mp3" type="audio/mpeg" length="0" />
+    </item>
+    <item>
+      <title>Today's WTF - 2026-06-07</title>
+      <pubDate>Sun, 07 Jun 2026 08:22:46 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-07.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Journey to JPEG XL: How open source experiments shaped the future of image coding:
+  https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html?m=1
+
+- Automating Obsidian Workflow for Large Academic Vaults - The Effortless Academic:
+  https://effortlessacademic.com/automating-obsidian-workflows-for-large-academic-vaults/
+
+- Meet Dreambeans, an app that connects you with what matters:
+  https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans/
+
+- Gemini for Science: AI experiments and tools for a new era of discovery:
+  https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
+
+- New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration:
+  https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html
+
+- My favorite AI coding tool isn't OpenCode: it's something way better (and cooler):
+  https://www.xda-developers.com/my-favorite-ai-coding-tool-isnt-opencode-its-something-even-better/
+
+- Local LLMs weren't enough, so I use a two-tier system that keeps my sensitive stuff offline:
+  https://www.xda-developers.com/local-llm-falls-back-to-cloud-but-private-stuff-never-leaves-house/
+
+- Not all ESP32 boards are built equal—here's why the manufacturer actually matters:
+  https://www.howtogeek.com/not-all-esp32-boards-are-built-equal-why-manufacturer-matters/?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4
+
+- I tried Google's new Antigravity 2.0, and I'm sticking with Claude Code:
+  https://www.xda-developers.com/claude-codes-hooks-the-most-powerful-feature-nobody-talks-about-enough/</description>
+    </item>
+  </channel>
 </rss>
