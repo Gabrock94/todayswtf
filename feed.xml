@@ -92,7 +92,7 @@
   https://towardsdatascience.com/how-to-combining-claude-code-and-codex-for-max-coding-power/</description>
     </item>
     <item>
-      <title>Gemini sul divano e Proton in corsa: l'IA che ci serve (o che ci serve a tavola)</title>
+      <title>Gemini on the couch, Proton on the run</title>
       <pubDate>Tue, 09 Jun 2026 12:45:53 GMT</pubDate>
       <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-09.mp3" type="audio/mpeg" length="0" />
       <description>Links discussed in this episode:
@@ -108,6 +108,21 @@
 
 - Google's New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal:
   https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/</description>
+    </item>
+    <item>
+      <title>Desktop Dreams, AI Nightmares</title>
+      <pubDate>Wed, 10 Jun 2026 09:22:01 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-10.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- I turned my Android phone into a laptop replacement, and it's more productive than I expected:
+  https://www.xda-developers.com/android-phone-laptop-replacement-more-productive-expected/?user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25
+
+- Microsoft built its most powerful Surface ever on Nvidia's new chip, and we saw every RTX Spark competitor coming this fall:
+  https://www.xda-developers.com/microsoft-build-most-powerful-surface-nvidia-new-chip-every-rtx-spark-competitor/?user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25
+
+- Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards:
+  https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html?m=1</description>
     </item>
   </channel>
 </rss>
