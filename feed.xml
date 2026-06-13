@@ -163,5 +163,20 @@
 - DiffusionGemma: 4x faster text generation:
   https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/</description>
     </item>
+    <item>
+      <title>Anthropic’s Border Control Blues</title>
+      <pubDate>Sat, 13 Jun 2026 12:31:00 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-13.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals:
+  https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html?m=1
+
+- Best Python AI Frameworks in 2026:
+  https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/
+
+- IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI-Powered Delivery:
+  https://www.googlecloudpresscorner.com/2026-06-04-IBM-and-Google-Cloud-Announce-Strategic-Partnership-to-Scale-AI-with-Human-Expertise-and-AI-Powered-Delivery?linkId=62237018</description>
+    </item>
   </channel>
 </rss>
