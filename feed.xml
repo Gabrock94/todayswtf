@@ -205,5 +205,26 @@
 - An AI Agent Infiltrated Fedora's Bug Tracker and Wreaked Havoc:
   https://itsfoss.com/news/fedora-bug-tracker-infiltrated-by-ai-agent/</description>
     </item>
+    <item>
+      <title>Promptly Deleted Your Intelligence</title>
+      <pubDate>Tue, 16 Jun 2026 09:12:21 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-16.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Stop guessing which local AI models fit your hardware — this free tool does it for you:
+  https://www.xda-developers.com/open-source-tool-is-the-first-step-before-trying-out-local-ai-llms-llmfit/?link_source=ta_first_comment&amp;taid=6a2f2b6d533f230001228d88
+
+- Your home network doesn't need Pi-hole — an $8 ESP32 blocks ads just as well for a fraction of the cost:
+  https://www.xda-developers.com/your-home-network-doesnt-need-pi-hole-but-an-esp32/?link_source=ta_first_comment&amp;taid=6a2dafbeca10da0001d977eb
+
+- NotebookLM's Audio Overviews sound so human, you'll believe the misinformation:
+  https://www.xda-developers.com/notebooklm-audio-overviews-sound-human-believe-misinformation/
+
+- I borrowed Claude prompts from Anthropic engineers and immediately stopped wasting time on bad ones:
+  https://www.xda-developers.com/i-borrowed-claude-prompts-from-anthropic-engineers/
+
+- I replaced my entire AI prompt library with Fabric, and now I can't imagine going back:
+  https://www.xda-developers.com/replaced-ai-prompt-library-fabric-cant-go-back/</description>
+    </item>
   </channel>
 </rss>
