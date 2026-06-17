@@ -226,5 +226,23 @@
 - I replaced my entire AI prompt library with Fabric, and now I can't imagine going back:
   https://www.xda-developers.com/replaced-ai-prompt-library-fabric-cant-go-back/</description>
     </item>
+    <item>
+      <title>Flipper Your Local AI</title>
+      <pubDate>Wed, 17 Jun 2026 11:21:05 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-17.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- How the Open Knowledge Format can improve data sharing:
+  https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing?utm_source=twitter&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy26q2-googlecloudtech-blog-ai-in_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-&amp;linkId=62355608
+
+- Flipper One is a Pocket-sized Linux Cyberdeck - It's FOSS:
+  https://itsfoss.com/news/flipper-one-announcement/
+
+- The UK's social media ban for children: the privacy problems Australia already exposed:
+  https://proton.me/blog/uk-social-media-ban-privacy
+
+- Running local models is good now:
+  https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/?utm_campaign=Data_Elixir&amp;utm_source=Data_Elixir_577</description>
+    </item>
   </channel>
 </rss>
