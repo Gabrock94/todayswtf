@@ -307,5 +307,26 @@
 - GitHub - AI4Scientist/nano-scientist: An autonomous research agent that turns a topic into a peer-reviewed technical report:
   https://github.com/AI4Scientist/nano-scientist</description>
     </item>
+    <item>
+      <title>AI Hijack, Local Stack Attack</title>
+      <pubDate>Sat, 20 Jun 2026 09:44:26 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-20.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution:
+  https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
+
+- 3 impressive ESP32 projects to make this weekend (Jun 19 - 21):
+  https://www.howtogeek.com/impressive-esp32-projects-to-make-this-weekend-jun-19-21/
+
+- Home Assistant OS 18: kernel, VM, firmware Raspberry e molto altro:
+  https://indomus.it/news/home-assistant-os-18/
+
+- 16GB 'Bonkers' Xeon PC is back at Newegg for Prime Day with $209 price tag, Nvidia Geforce GPU, 256GB SSD - Is this the best PC deal of 2026?:
+  https://www.techradar.com/pro/16gb-bonkers-xeon-pc-is-back-at-newegg-for-prime-day-with-usd209-price-tag-nvidia-geforce-gpu-256gb-ssd-is-this-the-best-pc-deal-of-2026
+
+- I replaced my entire browser extension stack with one local LLM, and I'm not going back:
+  https://www.xda-developers.com/replaced-entire-browser-extension-stack-local-llm-not-going-back/</description>
+    </item>
   </channel>
 </rss>
