@@ -328,5 +328,29 @@
 - I replaced my entire browser extension stack with one local LLM, and I'm not going back:
   https://www.xda-developers.com/replaced-entire-browser-extension-stack-local-llm-not-going-back/</description>
     </item>
+    <item>
+      <title>AI Has An Email Address</title>
+      <pubDate>Sun, 21 Jun 2026 07:01:56 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-21.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- OpenAI prepares GPT-5.6 models for the upcoming release:
+  https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/?utm_source=tldrai
+
+- Espanso is the text expander I didn't know I needed, and it's completely free:
+  https://www.xda-developers.com/espanso-text-expander-didnt-know-needed-completely-free/?utm_medium=newsletter&amp;utm_campaign=XDA-202606200710&amp;utm_source=XDA-NL&amp;user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25
+
+- Atomic Mail lets AI agents sign up for their own email accounts | AIntelligenceHub:
+  https://go.aintelligencehub.com/ma-atomicmailagents
+
+- Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent's Work and Learns Overnight:
+  https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/?utm_source=www.aidevsignals.com&amp;utm_medium=newsletter&amp;utm_campaign=ai-intelligence-brief-the-week-ai-memory-got-a-brain-and-agents-got-a-directory
+
+- These low-power chips beat the ESP32 for battery life:
+  https://www.howtogeek.com/low-power-chips-beat-the-esp32-for-battery-life/
+
+- It seems a copyright law quirk will finally let Lord British reclaim Ultima from EA’s clutches:
+  https://www.destructoid.com/it-seems-a-copyright-law-quirk-will-finally-let-lord-british-reclaim-ultima-from-eas-clutches/</description>
+    </item>
   </channel>
 </rss>
