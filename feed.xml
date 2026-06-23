@@ -370,5 +370,23 @@
 - 5 pioneering Linux distros that quietly faded into history:
   https://www.howtogeek.com/these-pioneering-linux-distros-quietly-faded-into-history/</description>
     </item>
+    <item>
+      <title>Windows Embraces Its Inner Nerd</title>
+      <pubDate>Tue, 23 Jun 2026 07:01:33 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-23.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Windows is quietly becoming the easiest way to run Linux containers, and I don't know how to feel about it:
+  https://www.xda-developers.com/windows-is-quietly-becoming-the-easiest-way-to-run-linux-containers/?user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25
+
+- What computers can't do (and what designers should):
+  https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1
+
+- I tested Google's new Gemma 4 12B on my 8GB GPU, and now I don't want to go back to smaller models:
+  https://www.xda-developers.com/tested-google-gemma-4-12b-on-8gb-gpu-and-dont-want-to-go-back-to-smaller-models/?link_source=ta_first_comment&amp;taid=6a34949d0b835600015e6eb9
+
+- I tested 3 tiny local LLMs for everyday work, and only one of them impressed me:
+  https://www.xda-developers.com/tested-tiny-local-llms-for-everyday-work-only-one-impressed-me/?link_source=ta_first_comment&amp;taid=6a3834be0b83560001672829</description>
+    </item>
   </channel>
 </rss>
