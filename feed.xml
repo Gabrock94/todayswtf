@@ -403,5 +403,23 @@
 - https://elink56e.dataelixir.com/ss/c/u001.Dt8L-Y0jq6TkmYqlU8wlZHgJ3FmmRhkFu4Is0iMd6mQ94YdRiU4WjxczWIHts96dHlWUvDuPc6Ofwr7ymbx-kzy_xGI6dTAMyHLPUm4zlAle7jzpNCNeiTZoClkvsauKx9VZqKGsxyZIwVIzRiM2zvssVdi87XQyvSHDEI3NPKDHaZI5iEFcBuFy67M4ymtvuEbXtmSOLSneG9070avqzQ/4rq/SnVsqebuSWehRkX3cJgNGA/h11/h001.JJHQvpPsAkyzuDPHAhMFW1ZxdTtUeNY8JzusIE28ZsE:
   https://elink56e.dataelixir.com/ss/c/u001.Dt8L-Y0jq6TkmYqlU8wlZHgJ3FmmRhkFu4Is0iMd6mQ94YdRiU4WjxczWIHts96dHlWUvDuPc6Ofwr7ymbx-kzy_xGI6dTAMyHLPUm4zlAle7jzpNCNeiTZoClkvsauKx9VZqKGsxyZIwVIzRiM2zvssVdi87XQyvSHDEI3NPKDHaZI5iEFcBuFy67M4ymtvuEbXtmSOLSneG9070avqzQ/4rq/SnVsqebuSWehRkX3cJgNGA/h11/h001.JJHQvpPsAkyzuDPHAhMFW1ZxdTtUeNY8JzusIE28ZsE</description>
     </item>
+    <item>
+      <title>RAMming Through Your AI Chips</title>
+      <pubDate>Thu, 25 Jun 2026 07:02:01 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-25.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Home Assistant OS 18.0 is out, and it'll stop devouring your RAM on low-end devices:
+  https://www.xda-developers.com/home-assistant-os-180-is-out-and-itll-stop-devouring-your-ram-on-low-end-devices/?link_source=ta_first_comment&amp;taid=6a3a521e1554950001f28c9b
+
+- How I use premortems with Claude and Codex:
+  https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm
+
+- OpenAI launches new security tools and updates GPT-5.5-Cyber:
+  https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/
+
+- https://openai.com/index/openai-broadcom-jalapeno-inference-chip/:
+  https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</description>
+    </item>
   </channel>
 </rss>
