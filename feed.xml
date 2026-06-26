@@ -421,5 +421,17 @@
 - https://openai.com/index/openai-broadcom-jalapeno-inference-chip/:
   https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</description>
     </item>
+    <item>
+      <title>Open Source Your Speaker</title>
+      <pubDate>Fri, 26 Jun 2026 07:01:45 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-26.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- PINE64's Smart Speaker is a Home Assistant Powered Alternative to Amazon Echo:
+  https://itsfoss.com/news/pinevoice-smart-speaker/
+
+- FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff:
+  https://itsfoss.com/newsletter/foss-weekly-26-26/</description>
+    </item>
   </channel>
 </rss>
