@@ -433,5 +433,23 @@
 - FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff:
   https://itsfoss.com/newsletter/foss-weekly-26-26/</description>
     </item>
+    <item>
+      <title>Local AI Outsmarts Big Tech</title>
+      <pubDate>Sat, 27 Jun 2026 07:18:13 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-27.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Open Design is replacing ComfyUI for my local AI workflows, and the difference is massive:
+  https://www.xda-developers.com/open-design-is-replacing-comfyui-for-local-ai-design-workflows/
+
+- Louder ESP32 Mini board adds WiFi and Bluetooth to old speakers for Squeezelite, Snapclient, or ESPHome support:
+  https://www.cnx-software.com/2026/06/25/louder-esp32-mini-board-adds-wifi-and-bluetooth-to-old-speakers-for-squeezelite-snapclient-or-esphome-support/
+
+- I run a 24GB GPU instead of paying for Claude or Codex, and Qwen 3.6 keeps up more than I expected:
+  https://www.xda-developers.com/24gb-gpu-instead-of-paying-for-claude-or-codex-qwen-36-is-impressive/
+
+- 8 Best Gadget Gifts Every Man Actually Wants This 4th of July:
+  https://www.yankodesign.com/2026/06/22/8-best-gadget-gifts-every-man-actually-wants-this-4th-of-july/</description>
+    </item>
   </channel>
 </rss>
