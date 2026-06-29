@@ -469,5 +469,17 @@
 - 3 trending free, open source apps to replace your defaults this weekend (Jun 26-28):
   https://www.howtogeek.com/3-trending-free-open-source-apps-to-replace-your-defaults-this-weekend-jun-26-28/</description>
     </item>
+    <item>
+      <title>Print It, Block It, Forget</title>
+      <pubDate>Mon, 29 Jun 2026 07:01:20 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-29.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- My 3D printer pays for itself every time I skip buying a PC accessory:
+  https://www.xda-developers.com/my-3d-printer-pays-for-itself-every-time-i-skip-buying-a-pc-accessory/?utm_medium=newsletter&amp;utm_campaign=XDA-202606260700&amp;utm_source=XDA-NL&amp;user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25
+
+- Network-wide ad blocking with a Raspberry Pi Zero is easier than you think, but the Wi-Fi problem is real:
+  https://www.xda-developers.com/network-wide-ad-blocking-raspberry-pi-zero-wifi-problem/?utm_medium=newsletter&amp;utm_campaign=XDA-202606260700&amp;utm_source=XDA-NL&amp;user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25</description>
+    </item>
   </channel>
 </rss>
