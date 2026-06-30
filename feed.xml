@@ -481,5 +481,29 @@
 - Network-wide ad blocking with a Raspberry Pi Zero is easier than you think, but the Wi-Fi problem is real:
   https://www.xda-developers.com/network-wide-ad-blocking-raspberry-pi-zero-wifi-problem/?utm_medium=newsletter&amp;utm_campaign=XDA-202606260700&amp;utm_source=XDA-NL&amp;user=Z2Fjazk0QGdtYWlsLmNvbQ&amp;lctg=f7eaffe8f05e51fe894998ad1f80581524527f5275ed618740b939af74e7cd25</description>
     </item>
+    <item>
+      <title>Local Models, Global Problems</title>
+      <pubDate>Tue, 30 Jun 2026 07:02:17 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-06-30.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Local LLMs finally beat cloud AI for coding, automation, and brainstorming — here's which ones I use:
+  https://www.xda-developers.com/local-llms-finally-beat-cloud-ai-for-coding-automation-and-brainstorming-heres-which-ones-i-use/?link_source=ta_first_comment&amp;taid=6a41c39ff696500001ee5de9
+
+- My old tablet does exactly one job now, and it's never been more useful:
+  https://www.makeuseof.com/my-old-tablet-does-one-job-now/?utm_source=firefox-newtab-en-ie
+
+- The Race to Better AR Glasses Is Moving Even Faster Than Expected:
+  https://gizmodo.com/the-race-to-better-ar-glasses-is-moving-even-faster-than-expected-2000778923
+
+- Europe's Heatwave and the Continent That Stopped Building:
+  https://substack.com/home/post/p-203968626
+
+- 98% of Claude Code is not AI:
+  https://cobusgreyling.substack.com/p/98-of-claude-code-is-not-ai
+
+- Meta's Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read:
+  https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/?utm_source=www.aidevsignals.com&amp;utm_medium=newsletter&amp;utm_campaign=the-week-governments-started-gating-frontier-ai-and-open-source-filled-the-vacuum</description>
+    </item>
   </channel>
 </rss>
