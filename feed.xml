@@ -505,5 +505,20 @@
 - Meta's Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read:
   https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/?utm_source=www.aidevsignals.com&amp;utm_medium=newsletter&amp;utm_campaign=the-week-governments-started-gating-frontier-ai-and-open-source-filled-the-vacuum</description>
     </item>
+    <item>
+      <title>Local Models, Local Pixels</title>
+      <pubDate>Wed, 01 Jul 2026 07:02:55 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-01.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Local LLMs finally beat cloud AI for coding, automation, and brainstorming — here's which ones I use:
+  https://www.xda-developers.com/local-llms-finally-beat-cloud-ai-for-coding-automation-and-brainstorming-heres-which-ones-i-use/?link_source=ta_first_comment&amp;taid=6a423b237b09ba0001eea120
+
+- Someone made an e-Ink ESP32 Game Boy, and it runs at a very playable 60Hz refresh rate:
+  https://www.xda-developers.com/someone-made-an-e-ink-esp32-game-boy-and-it-runs-at-a-very-playable-60hz-refresh-rate/?link_source=ta_first_comment&amp;taid=6a43697a7ef2f60001a7f3e3
+
+- Anthropic Unveils Claude Science: AI Platform for Scientific Research:
+  https://www.reuters.com/science/anthropic-unveils-claude-science-ai-platform-scientific-research-2026-06-30/</description>
+    </item>
   </channel>
 </rss>
