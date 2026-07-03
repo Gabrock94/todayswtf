@@ -535,5 +535,23 @@
 - 5 Best Gadgets of June 2026 That Quietly Run Your Home in the Background:
   https://www.yankodesign.com/2026/06/30/5-best-gadgets-of-june-2026-that-quietly-run-your-home-in-the-background/</description>
     </item>
+    <item>
+      <title>Size Doesn’t Matter, Google!</title>
+      <pubDate>Fri, 03 Jul 2026 07:02:01 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-03.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- I stopped running the biggest local LLM that could fit, and a 2B model handles 90% of what I need:
+  https://www.xda-developers.com/stopped-running-biggest-local-llm-that-could-fit-2b-model-handles-90-percent-what-i-need/
+
+- Google loses final fight over $4.7 billion Android antitrust fine:
+  https://www.androidauthority.com/google-android-antitrust-eu-fine-appeal-fails-3683964/
+
+- Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding:
+  https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
+
+- Stop trusting GitHub—your homelab can host Git for free:
+  https://www.howtogeek.com/stop-trusting-githubyour-homelab-can-host-git-for-free/</description>
+    </item>
   </channel>
 </rss>
