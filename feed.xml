@@ -553,5 +553,20 @@
 - Stop trusting GitHub—your homelab can host Git for free:
   https://www.howtogeek.com/stop-trusting-githubyour-homelab-can-host-git-for-free/</description>
     </item>
+    <item>
+      <title>Ditch Google, Hack Your Home</title>
+      <pubDate>Sun, 05 Jul 2026 07:01:28 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-05.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Make your smart home more useful with these Raspberry Pi projects (July 3 - 5):
+  https://www.howtogeek.com/make-your-smart-home-more-useful-with-these-raspberry-pi-projects-july-3-5/
+
+- 3 beautiful ESP32 projects to make this weekend (Jul 3 - 5):
+  https://www.howtogeek.com/beautiful-esp32-projects-to-make-this-weekend-jul-3-5/
+
+- I ditched Google Maps for an open source alternative that actually delivers:
+  https://www.xda-developers.com/organic-maps-open-source-google-maps-alternative-delivers/?link_source=ta_first_comment&amp;taid=6a47c775d223da0001303795&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=facebook</description>
+    </item>
   </channel>
 </rss>
