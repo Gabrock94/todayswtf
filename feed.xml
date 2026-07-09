@@ -589,5 +589,17 @@
 - I tried umbrelOS, and it's the easiest way to grow your homelab:
   https://www.howtogeek.com/i-tried-umbrelos-and-its-the-easiest-option-for-a-growing-homelab/</description>
     </item>
+    <item>
+      <title>Calendar: Free Yourself Now</title>
+      <pubDate>Thu, 09 Jul 2026 07:01:19 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-09.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- https://x.com/i/status/2073438517775003671:
+  https://x.com/i/status/2073438517775003671
+
+- I replaced Google Calendar with a free self-hosted app, and I'm not going back:
+  https://www.xda-developers.com/i-replaced-google-calendar-with-a-free-self-hosted-app/</description>
+    </item>
   </channel>
 </rss>
