@@ -667,5 +667,23 @@
 - Vocalinux 0.14 Beta Released:
   https://www.phoronix.com/news/Vocalinux-0.14-Beta</description>
     </item>
+    <item>
+      <title>Sucking Up Your Network</title>
+      <pubDate>Fri, 17 Jul 2026 07:01:38 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-17.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- Unpatched Shark Vacuum Flaw Could Let Attackers Control All Other Vacuums Region-Wide:
+  https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html
+
+- OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol:
+  https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html
+
+- FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More:
+  https://itsfoss.com/newsletter/foss-weekly-26-29/
+
+- OpenAI Expands Into Developer Hardware With Codex Micro Keyboard:
+  https://devops.com/openai-expands-into-developer-hardware-with-codex-micro-keyboard/</description>
+    </item>
   </channel>
 </rss>
