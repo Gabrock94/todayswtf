@@ -721,5 +721,23 @@
 - AWE 2026 VR and AR Tech Reveals and First Looks - Geeky Gadgets:
   https://www.geeky-gadgets.com/awe-2026-vr-ar-innovations/</description>
     </item>
+    <item>
+      <title>ESP32: The Stalker Edition</title>
+      <pubDate>Mon, 20 Jul 2026 07:02:10 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-20.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- 3 handy ESP32 network tools to build this weekend—no soldering required (Jul 17-19):
+  https://www.howtogeek.com/handy-esp32-network-tools-to-build-this-weekend-jul-17-19/
+
+- MemoMind One Smart Glasses Review and Feature Guide:
+  https://www.geeky-gadgets.com/memomind-one-smart-glasses-review/
+
+- I used a local Qwen3.6-35B-A3B LLM to extend my coding harness' capabilities:
+  https://www.xda-developers.com/i-used-a-local-llm-to-extend-my-coding-harness-capabilities/
+
+- I turned an ESP32 into a Bluetooth presence sensor, and it knows which room I'm in:
+  https://www.howtogeek.com/esp32-bluetooth-presence-sensor/</description>
+    </item>
   </channel>
 </rss>
