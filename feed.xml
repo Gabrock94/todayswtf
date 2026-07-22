@@ -739,5 +739,20 @@
 - I turned an ESP32 into a Bluetooth presence sensor, and it knows which room I'm in:
   https://www.howtogeek.com/esp32-bluetooth-presence-sensor/</description>
     </item>
+    <item>
+      <title>Scraping By With AI</title>
+      <pubDate>Wed, 22 Jul 2026 07:01:38 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-07-22.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- 7 Python Frameworks for Orchestrating Local AI Agents:
+  https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents
+
+- My morning news routine used to be five apps showing the same story — until I self-hosted MuckScraper:
+  https://www.xda-developers.com/news-routine-used-apps-showing-same-story-until-self-hosted-muckscraper/?link_source=ta_first_comment&amp;taid=6a5ca735f9f08f000115b38a
+
+- How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it:
+  https://open.substack.com/pub/laurenleek/p/how-google-maps-quietly-allocates?utm_source=share&amp;utm_medium=android&amp;r=4z5lx</description>
+    </item>
   </channel>
 </rss>
