@@ -775,5 +775,20 @@
 - Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack:
   https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</description>
     </item>
+    <item>
+      <title>Today's WTF - 2026-08-04</title>
+      <pubDate>Tue, 04 Aug 2026 07:01:53 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-08-04.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- This $50 ESP32 fridge magnet takes voice notes, but the best part is the app platform underneath:
+  https://www.xda-developers.com/reterminal-sticky-fridge-magnet-voice-notes-best-part-app-platform/
+
+- Data Lessons from Inside Meta with Shridhar | dbt Roundup:
+  https://www.google.com/url?q=https://tracking.tldrnewsletter.com/CL0/https:%252F%252Froundup.getdbt.com%252Fp%252Fdata-lessons-from-inside-meta-shridhar%253Futm_source%3Dtldrdata/1/0100019fc71ee016-f293eb96-c485-4d5a-89e5-1af00e70fa27-000000/0Iz9H567G22JDIGx_wiNe3-LvAvllVZNRbTQEdCJYcI%3D452&amp;source=gmail&amp;ust=1785838523992000&amp;usg=AOvVaw09_t2IJ0eXfbVc0jA9LV_s
+
+- Software abundance:
+  https://nader.substack.com/p/software-abundance</description>
+    </item>
   </channel>
 </rss>
