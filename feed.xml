@@ -802,5 +802,14 @@
 - Models at the speed of thought: How AI coding is reshaping theoretical neuroscience:
   https://www.thetransmitter.org/the-big-picture/models-at-the-speed-of-thought-how-ai-coding-is-reshaping-theoretical-neuroscience/</description>
     </item>
+    <item>
+      <title>NVIDIA’s Chatty Little Robot</title>
+      <pubDate>Wed, 12 Aug 2026 07:01:20 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-08-12.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling:
+  https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/?utm_source=www.aidevsignals.com&amp;utm_medium=newsletter&amp;utm_campaign=meta-s-4-bit-30b-in-24-gb-of-vram-nvidia-s-448-ms-full-duplex-turns-and-an-agent-runtime-that-forks-5x-faster-than-docker</description>
+    </item>
   </channel>
 </rss>
