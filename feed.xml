@@ -862,5 +862,14 @@
 - I tested GNOME's glassy new look - and it's simply spectacular:
   https://www.zdnet.com/article/gnome-desktop-liquid-glass-aura-glass/</description>
     </item>
+    <item>
+      <title>Flipper Your Own Bit</title>
+      <pubDate>Mon, 24 Aug 2026 07:01:21 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-08-24.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- ESP32-DIV Guide: Build an Open-Source Flipper Zero - Geeky Gadgets:
+  https://www.geeky-gadgets.com/esp32-div-flipper-zero-alternative/</description>
+    </item>
   </channel>
 </rss>
