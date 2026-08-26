@@ -883,5 +883,14 @@
 - Meta’s smart glasses raise some existential questions:
   https://www.irishtimes.com/opinion/2026/08/24/metas-smart-glasses-raise-some-existential-questions/</description>
     </item>
+    <item>
+      <title>Self-Hosted AI, Zero Bills</title>
+      <pubDate>Wed, 26 Aug 2026 07:01:14 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-08-26.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- I don't pay for Perplexity or ChatGPT after combining my local LLMs with Perplexica and SearXNG:
+  https://www.xda-developers.com/i-combined-perplexica-and-searxng-with-local-llms/</description>
+    </item>
   </channel>
 </rss>
