@@ -931,5 +931,17 @@
 - https://www.bbc.com/news/articles/cz05jxx08kyo:
   https://www.bbc.com/news/articles/cz05jxx08kyo</description>
     </item>
+    <item>
+      <title>LLMs: Ditch Subs, Keep Local</title>
+      <pubDate>Sat, 19 Sep 2026 07:01:19 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-09-19.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- My local LLM is small enough to run on my laptop, but smart enough to replace these 3 subscriptions:
+  https://www.xda-developers.com/my-local-llm-is-small-enough-to-run-on-my-laptop-but-smart-enough-to-replace-these-x-subscriptions/
+
+- https://www.nature.com/articles/d41586-026-02910-w:
+  https://www.nature.com/articles/d41586-026-02910-w</description>
+    </item>
   </channel>
 </rss>
