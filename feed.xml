@@ -1006,5 +1006,17 @@
 - A Web Page Dropped AGENTS.md in Downloads. Codex Obeyed It in 90%+ of Tests:
   https://dev.to/gabrielanhaia/a-web-page-dropped-agentsmd-in-downloads-codex-obeyed-it-in-90-of-tests-530o</description>
     </item>
+    <item>
+      <title>VRAM Is Overrated, GNOME Later</title>
+      <pubDate>Mon, 02 Nov 2026 07:01:33 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-11-02.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- You don't need more VRAM to run large local models, you just need the right settings:
+  https://www.xda-developers.com/you-dont-need-more-vram-to-run-large-local-models-you-just-need-the-right-settings/
+
+- 21 Best GNOME Extensions to Enhance Your Experience - It's FOSS:
+  https://itsfoss.com/best-gnome-extensions/</description>
+    </item>
   </channel>
 </rss>
