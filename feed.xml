@@ -1039,5 +1039,14 @@
 - Check out the new demo for CultGame, an ASCII art cult simulator RPG:
   https://www.gamingonlinux.com/2026/11/check-out-the-new-demo-for-cultgame-an-ascii-art-cult-simulator-rpg/</description>
     </item>
+    <item>
+      <title>Local AI Kills The Cloud</title>
+      <pubDate>Thu, 19 Nov 2026 07:00:55 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-11-19.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- I replaced ElevenLabs with a free, open-source tool that runs entirely on my machine:
+  https://www.xda-developers.com/replaced-elevenlabs-with-a-free-open-source-tool-that-runs-entirely-on-my-machine/</description>
+    </item>
   </channel>
 </rss>
