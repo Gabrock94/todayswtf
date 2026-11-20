@@ -1048,5 +1048,14 @@
 - I replaced ElevenLabs with a free, open-source tool that runs entirely on my machine:
   https://www.xda-developers.com/replaced-elevenlabs-with-a-free-open-source-tool-that-runs-entirely-on-my-machine/</description>
     </item>
+    <item>
+      <title>Local LLMs Kill The Cloud</title>
+      <pubDate>Fri, 20 Nov 2026 07:01:19 GMT</pubDate>
+      <enclosure url="https://Gabrock94.github.io/todayswtf/episodes/2026-11-20.mp3" type="audio/mpeg" length="0" />
+      <description>Links discussed in this episode:
+
+- I'm running a 27B parameter model on my 8GB GPU, and it's doing the work I used to pay ChatGPT for:
+  https://www.xda-developers.com/8gb-gpu-running-27b-model-doing-the-work-i-used-to-pay-chatgpt-for/</description>
+    </item>
   </channel>
 </rss>
